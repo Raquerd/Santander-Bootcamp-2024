@@ -66,3 +66,8 @@ Simule um podcast com o tema TEMA utilizando como modelo os valores em [ESTRUTUR
 ```bash
 Desenhe para mim um desenho de um microfone em um fundo preto com alguns rostos transparentes espalhados pelo fundo
 ```
+### PODCAST COM IA
+#### COPILOT
+```bash
+Show a close-up unknow animal looks like a dragon standing on the ground looking up. Make it look ultra-realistic, use natural lighting highlight texture.
+```
